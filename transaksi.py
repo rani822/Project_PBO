@@ -41,3 +41,4 @@ class Catat:
         # fitur(1. catat transaksi, 2. rekap)
 
 # class Nota(Catat):
+
